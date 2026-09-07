@@ -103,10 +103,10 @@
 
         layer_1 {
             bindings = <
-&kp F1                   &kp F2        &kp F3     &kp F4       &kp F5                                             &kp F6         &kp F7                &kp F8             &kp F9         &kp F10
-&kp EXCLAMATION          &kp QUESTION  &kp DLLR   &kp AT_SIGN  &kp AMPERSAND                             &kp F13  &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_BRACE    &kp PIPE       &kp LEFT_BRACKET
-&kp INTERNATIONAL_3      &kp PERCENT   &kp HASH   &kp PERIOD   &kp SEMICOLON        &trans               &trans   &kp LESS_THAN  &kp GREATER_THAN      &kp RIGHT_BRACKET  &kp BACKSLASH  &kp F11
-&kp LS(INTERNATIONAL_3)  &kp UNDER     &kp CARET  &kp COMMA    &kp INTERNATIONAL_1  &kp DOUBLE_QUOTES    &trans   &trans                                                                 &kp F12
+&kp F1                   &kp F2        &kp F3     &kp F4       &kp F5                                                 &kp F6         &kp F7                &kp F8             &kp F9         &kp F10
+&kp EXCLAMATION          &kp QUESTION  &kp DLLR   &kp AT_SIGN  &kp AMPERSAND                                 &kp F13  &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_BRACE    &kp PIPE       &kp LEFT_BRACKET
+&kp INTERNATIONAL_3      &kp PERCENT   &kp HASH   &kp PERIOD   &kp SEMICOLON            &trans               &trans   &kp LESS_THAN  &kp GREATER_THAN      &kp RIGHT_BRACKET  &kp BACKSLASH  &kp F11
+&kp LS(INTERNATIONAL_3)  &kp UNDER     &kp CARET  &kp COMMA    &kp LS(INTERNATIONAL_1)  &kp DOUBLE_QUOTES    &trans   &trans                                                                 &kp F12
             >;
 
             sensor-bindings = <&scroll_right_left>;
