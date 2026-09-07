@@ -81,7 +81,7 @@ layers:
   - _
   - ^
   - ','
-  - INTERNATIONAL 1
+  - Sft+INTERNATIONAL 1
   - '"'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
